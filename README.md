@@ -379,3 +379,8 @@ User → FastAPI Backend → [publish_files_to_rabbitmq] → RabbitMQ Queue ← 
 
 - **RabbitMQ:**  
   Ensure RabbitMQ is running and accessible at the URL specified in `.env`.
+
+  <img width="2071" height="2161" alt="Server_Process_Sequence_Diagram drawio" src="https://github.com/user-attachments/assets/4ba0fb99-0ba9-4a30-9e8b-50c3f5d7250a" />
+  <img width="5240" height="1694" alt="Cloud Deployment drawio" src="https://github.com/user-attachments/assets/f92f9aa1-65de-47b3-92a3-5fa952e68e33" />
+
+
