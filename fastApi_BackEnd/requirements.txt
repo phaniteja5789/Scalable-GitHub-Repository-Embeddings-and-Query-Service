@@ -1,0 +1,14 @@
+fastapi[all]
+pyjwt
+uvicorn
+pydantic
+requests
+httpx
+aio-pika
+openai
+chromadb
+langchain[all]
+langchain_community
+langchain-openai
+authlib
+python-dotenv
